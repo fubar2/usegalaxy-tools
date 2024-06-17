@@ -18,6 +18,8 @@ tools:
   owner: devteam
 - name: fastq_to_tabular
   owner: devteam
+- name: bbgbigwig
+  owner: iuc
 - name: bax2bam
   owner: iuc
 - name: crossmap_bam
